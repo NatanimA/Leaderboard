@@ -1,5 +1,5 @@
 export default class Display {
-    static sortingFunction = (a, b) => parseFloat(a.score) - parseFloat(b.score)
+    static sortingFunction = (a, b) => parseFloat(b.score) - parseFloat(a.score)
 
     static displayScores = (player, display) => {
       const scores = player.sort(this.sortingFunction);
