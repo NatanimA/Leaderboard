@@ -11,9 +11,6 @@
 - CSS
 - Javascript
 
-## Live Demo (if available)
-
--Not yet deployed
 
 
 ## Getting Started
