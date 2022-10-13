@@ -4,16 +4,13 @@
 
 > I have done this project with Javascript,Html and CSS, which will use API to fetch data from other parties.
 
-![](images/leaderboard.JPG)
+![](images/lead.JPG)
 
 ## Built With
 - Html
 - CSS
 - Javascript
 
-## Live Demo (if available)
-
--Not yet deployed
 
 
 ## Getting Started
@@ -49,6 +46,8 @@ No PREREQUISTIES NEEDED
 ### Deployment
 
 ### Live Link
+
+https://natanima.github.io/Leaderboard/
 
 
 
